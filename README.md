@@ -51,7 +51,7 @@
 
 ---
 
-# 🎯 Fun Zone  
+# 🤖 Meep Morp  
 > 💡 *"Code is like humor. When you have to explain it, it’s bad."*  
 
 ![Snake animation](https://github.com/Joshnaacsha/Joshnaacsha/blob/output/github-contribution-grid-snake.svg)  
